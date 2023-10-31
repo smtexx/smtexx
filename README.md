@@ -12,15 +12,15 @@
     <img src="https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin&logoColor=white&color=8352c3" alt="LinkedIn"></a> 
 </div>
 
-### About me
+## About me
 
 I enjoy developing in JavaScript. Seriously. I think that only TypeScript can be better than JavaScript :wink:. I start to feel unwell if I don't write code for a long time :woozy_face:. In my free time I study Node and Express JS, and dream that someday I will get to React Native.
 
-### Portfolio
+## Portfolio
 
 You can learn more about me and my projects by visiting [my website](https://smtexx.com/). This web site is not for everyone, but you can use login: **guest** and password: **guest_5**.
 
-### Skills & Tools
+## Skills & Tools
 
 <img width="40" height="40" alt="JavaScript" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;
 <img width="40" height="40" alt="TypeScript" title="TypeScript"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />&nbsp;
@@ -33,8 +33,8 @@ You can learn more about me and my projects by visiting [my website](https://smt
 <img width="40" height="40" alt="Jest" title="Jest"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />&nbsp;
 <img width="40" height="40" alt="Bootstrap" title="Bootstrap"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />&nbsp;
 
-### Statistics
+## Statistics
 
-<img width="700" height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smtexx&theme=aura" alt="Github profile summary" /><img width="350" height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smtexx&theme=aura" alt="Top languages by repo" /><img width="350" height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smtexx&theme=aura" alt="Top languages by commit" />
-
-
+![Github profile summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smtexx&theme=aura)
+![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smtexx&theme=aura)
+![Top languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smtexx&theme=aura)
