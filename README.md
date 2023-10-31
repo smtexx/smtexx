@@ -3,7 +3,7 @@
   <h3>Passionate Frontend Developer</h3>
 </div>
 
-<div id="socials" align="left">
+<div id="socials" align="center">
   <a href="mailto:smtexx@hotmail.com">
     <img src="https://img.shields.io/badge/Send%20email-grey?style=for-the-badge&logo=gmail&logoColor=white&color=8352c3" alt="Email"></a> 
   <a href="https://t.me/smtexx">
@@ -45,7 +45,7 @@ This web site is not for everyone, but you can use login: **guest** and password
 
 ### Statistics
 
-<div id="stat" align="center">
+<div id="stat" align="left">
     <img width="700" height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smtexx&theme=aura" alt="Github profile summary" />
     <img width="355" height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smtexx&theme=aura" alt="Top languages by repo" />
     <img width="355" height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smtexx&theme=aura" alt="Top languages by commit" />
