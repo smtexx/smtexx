@@ -5,13 +5,13 @@
 
 <div id="socials" align="center">
   <a href="mailto:smtexx@hotmail.com">
-    <img src=" https://img.shields.io/badge/Send%20email-grey?style=for-the-badge&logo=gmail&logoColor=white&color=8352c3" alt="Email">
+    <img src="https://img.shields.io/badge/Send%20email-grey?style=for-the-badge&logo=gmail&logoColor=white&color=8352c3" alt="Email">
   </a>
   <a href="https://t.me/smtexx">
-    <img src=" https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram&logoColor=white&color=8352c3" alt="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram&logoColor=white&color=8352c3" alt="Telegram">
   </a>
   <a href="https://www.linkedin.com/in/roman-kolmakov-00935b252/">
-    <img src=" https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin&logoColor=white&color=8352c3" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin&logoColor=white&color=8352c3" alt="LinkedIn">
   </a>
 </div>
 <br />
