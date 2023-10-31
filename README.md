@@ -40,4 +40,4 @@ You can learn more about me and my projects by visiting [my website](https://smt
 ## Statistics
 
 ![Github profile summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smtexx&theme=aura)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smtexx&layout=compact&theme=aura)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smtexx&layout=donut&theme=aura)
