@@ -34,8 +34,9 @@ You can learn more about me and my projects by visiting [my website](https://smt
 <img width="40" height="40" alt="Bootstrap" title="Bootstrap"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />&nbsp;
 
 ### Statistics
-
-<img width="700" height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smtexx&theme=aura" alt="Github profile summary" />
-
-<img width="355" height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smtexx&theme=aura" alt="Top languages by repo" /><img width="355" height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smtexx&theme=aura" alt="Top languages by commit" />
+<div style="font-size: 0px">
+  <img width="700" height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smtexx&theme=aura" alt="Github profile summary" />
+  <img width="355" height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smtexx&theme=aura" alt="Top languages by repo" />
+  <img width="355" height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smtexx&theme=aura" alt="Top languages by commit" />
+</div>
 
