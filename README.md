@@ -1,9 +1,9 @@
-<div id="header" align="center">
+<div align="center">
   <h1>Hello, my name is Roman!</h1>
   <h3>Passionate Frontend Developer</h3>
 </div>
 
-<div id="social" align="center">
+<div align="center">
   <a href="mailto:smtexx@hotmail.com">
     <img src="https://img.shields.io/badge/Send%20email-grey?style=for-the-badge&logo=gmail&logoColor=white&color=8352c3" alt="Email"></a> 
   <a href="https://t.me/smtexx">
