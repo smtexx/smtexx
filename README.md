@@ -1,9 +1,9 @@
-<div align="center">
+<div id="header" align="center">
   <h1>Hello, my name is Roman!</h1>
   <h3>Passionate Frontend Developer</h3>
 </div>
 
-<div align="center">
+<div id="social" align="center">
   <a href="mailto:smtexx@hotmail.com">
     <img src="https://img.shields.io/badge/Send%20email-grey?style=for-the-badge&logo=gmail&logoColor=white&color=8352c3" alt="Email"></a> 
   <a href="https://t.me/smtexx">
@@ -11,22 +11,14 @@
   <a href="https://www.linkedin.com/in/roman-kolmakov-00935b252/">
     <img src="https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin&logoColor=white&color=8352c3" alt="LinkedIn"></a> 
 </div>
-<br />
 
 ### About me
 
 I enjoy developing in JavaScript. Seriously. I think that only TypeScript can be better than JavaScript :wink:. I start to feel unwell if I don't write code for a long time :woozy_face:. In my free time I study Node and Express JS, and dream that someday I will get to React Native.
 
-<br />
-
 ### Portfolio
 
-You can learn more about me and my projects by visiting [my website](https://smtexx.com/).
-
-[!IMPORTANT]
-This web site is not for everyone, but you can use login: **guest** and password: **guest_5**.
-
-<br />
+You can learn more about me and my projects by visiting [my website](https://smtexx.com/). This web site is not for everyone, but you can use login: **guest** and password: **guest_5**.
 
 ### Skills & Tools
 
@@ -41,12 +33,8 @@ This web site is not for everyone, but you can use login: **guest** and password
 <img width="40" height="40" alt="Jest" title="Jest"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />&nbsp;
 <img width="40" height="40" alt="Bootstrap" title="Bootstrap"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />&nbsp;
 
-<br />
-
 ### Statistics
 
 <div id="stat" align="center">
-<img width="700" height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smtexx&theme=aura" alt="Github profile summary" />
-<img width="355" height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smtexx&theme=aura" alt="Top languages by repo" />
-<img width="355" height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smtexx&theme=aura" alt="Top languages by commit" />
+  <img width="700" height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smtexx&theme=aura" alt="Github profile summary" /><img width="355" height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smtexx&theme=aura" alt="Top languages by repo" /> <img width="355" height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smtexx&theme=aura" alt="Top languages by commit" />
 </div>
