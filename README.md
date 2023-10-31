@@ -20,7 +20,9 @@ I enjoy developing in JavaScript. Seriously. I think that only TypeScript can be
 
 ## Portfolio
 
-You can learn more about me and my projects by visiting [my website](https://smtexx.com/). This web site is not for everyone, but you can use login: **guest** and password: **guest_5**.
+You can learn more about me and my projects by visiting [my website](https://smtexx.com/). 
+> [!IMPORTANT]
+> This web site is not for everyone, but you can use login: **guest** and password: **guest_5**.
 <br />
 <br />
 
