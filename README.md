@@ -48,22 +48,8 @@ This web site is not for everyone, but you can use login: **guest** and password
 
 ### Statistics
 
-<div id="stat" align="left">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smtexx&theme=aura" alt="Github profile summary" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smtexx&theme=aura" alt="Top languages by repo" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smtexx&theme=aura" alt="Top languages by commit" />
+<div id="stat" align="center">
+    <img width="700" height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smtexx&theme=aura" alt="Github profile summary" />
+    <img width="350" height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smtexx&theme=aura" alt="Top languages by repo" />
+    <img width="350" height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smtexx&theme=aura" alt="Top languages by commit" />
 </div>
-<!--
-**smtexx/smtexx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
