@@ -24,7 +24,6 @@ You can learn more about me and my projects by visiting [www.smtexx.com](https:/
 > [!IMPORTANT]
 > This website is not for everyone, but you can use login: **guest** and password: **guest_5**.
 <br />
-<br />
 
 ## Skills & Tools
 
